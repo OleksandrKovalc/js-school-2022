@@ -75,7 +75,7 @@
 // console.log(array2.reverse());
 
 // const array3 = [true, 'goIt'];
-//метод моединения массивоов
+//метод cоединения массивоов
 // console.log(array2.concat(array3));
 
 // разделяем массив на буквы
